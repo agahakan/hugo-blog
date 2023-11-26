@@ -1,18 +1,18 @@
 ---
-title: "My 1st post"
+title: "My First Post 🚀"
 date: 2023-11-14T10:45:37+01:00
 # weight: 1
 # aliases: ["/first"]
-categories: "Database"
-tags: ["first"]
+categories: ["Software Development"]
+tags: ["Beginner", "Learning", "Programming"]
 author: "Hakan"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: "Join me on my journey through the world of software development."
+canonicalURL: "https://agahakan.github.io/hugo-blog/posts/my-first-post"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -24,10 +24,30 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
 ---
+
+## Introduction
+
+Welcome to my very first blog post! I'm Hakan, and this is where I'll be documenting my journey as I dive into the vast ocean of software development.
+
+## Why Software Development?
+
+I've always been fascinated by technology and its potential to solve real-world problems. Software development, in particular, stands out to me as a field where creativity meets functionality.
+
+## What You Can Expect
+
+- **Weekly Updates**: I'll share what I've learned, what I struggled with, and my small victories.
+- **Resource Sharing**: Useful tutorials, articles, and tools that I find helpful.
+- **Community Interaction**: I look forward to learning from and contributing to the software development community.
+
+## Conclusion
+
+I'm excited about this journey and even more excited to share it with you. Let's learn and grow together!
+
+_Stay tuned for more updates, and thanks for reading!_
+
+[My Github](https://twitter.com/hakan) | [Connect on LinkedIn](https://www.linkedin.com/in/arik-hakan/)
+
+---
+
+> _"The only way to do great work is to love what you do."_ - Steve Jobs

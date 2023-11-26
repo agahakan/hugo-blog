@@ -70,6 +70,19 @@ GitHub, the home of Git repositories, is a web-based platform where you can uplo
 - **Pull Requests**: Propose changes and collaborate.
 - **Forks**: Copy a repository to your account to modify without affecting the original.
 
+### Issue and Pull Request Management
+
+- **Issues**: Use issues to report bugs, request features, or discuss aspects of the project.
+- **Pull Requests (PRs)**: Propose changes to the codebase and have them reviewed by team members.
+
+### Automation with GitHub Actions
+
+GitHub Actions is a powerful automation tool that lets you create custom workflows for testing, building, and deploying code directly from GitHub.
+
+### Hosting with GitHub Pages
+
+Host your static websites directly from a GitHub repository with GitHub Pages, an easy-to-use hosting service provided by GitHub.
+
 ## Git and GitHub in Action ⚡
 
 ### Basic Git Commands

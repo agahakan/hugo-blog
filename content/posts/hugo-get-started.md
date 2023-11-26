@@ -137,9 +137,25 @@ draft: true
 ---
 ```
 
-As you can see draft is set to true, so you won't see it on your website as it is still a draft. You can set it to false to see the new content on your site.
+As you can see draft is set to true, so you won't see it on your website as it is still a draft. You can set it to false to see the new content on your site, or you can start your server like so:
 
-You can start writing your content in [Markdown](https://commonmark.org/help/). You can use Markdown features like headings, lists, links, and more to format your content.
+```bash
+hugo server -D
+```
+
+-D or --buildDrafts are optional flags you can include with the hugo server command. When you include the -D flag, Hugo will build and display draft content on the local server.
+
+You can now start writing your content in [Markdown](https://commonmark.org/help/). You can use Markdown features like headings, lists, links, and more to format your content.
+
+## Understanding Hugo's Directory Structure
+- Front Matter: Metadata at the top of each content file (YAML, TOML, JSON). Set draft: false to publish.
+- Static Folder: Store static files like images or CSS.
+- Layouts Folder: Contains templates for page appearance.
+- Themes Folder: Store and customize themes.
+- Data Folder: Holds configuration data files.
+- Archetypes Folder: Templates for new content with default Front Matter.
+- Resources Folder: Stores transformed resource files like post-processed CSS.
+- Config File: The main configuration file (hugo.toml/hugo.yaml/hugo.json) sets site-wide parameters.
 
 ## Build Your Site
 

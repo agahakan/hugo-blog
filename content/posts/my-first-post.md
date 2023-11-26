@@ -50,4 +50,4 @@ _Stay tuned for more updates, and thanks for reading!_
 
 ---
 
-> _"The only way to do great work is to love what you do."_ - Steve Jobs
+> _"The only way to do great work is to love what you do."_ — Steve Jobs

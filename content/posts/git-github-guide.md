@@ -1,16 +1,27 @@
 ---
 title: "Understanding and Using Git and GitHub"
-date: 2023-11-26
+date: 2023-11-23
 categories: ["Version Control", "Coding Tools"]
 tags: ["Git", "GitHub", "Tutorial"]
-author: "Your Name"
+author: "Hakan"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: true
+comments: false
 description: "A beginner's guide to understanding and using Git and GitHub."
-canonicalURL: "https://yourblog.com/git-github-guide"
+canonicalURL: "https://agahakan.github.io/hugo-blog/posts/git-github-guide"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 cover:
     image: "images/github.png" # image path/url
     alt: "GitHub globe" # alt text
@@ -19,7 +30,7 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-# Understanding and Using Git and GitHub :octocat:
+# Understanding and Using Git and GitHub
 
 ## Introduction
 
@@ -84,4 +95,4 @@ Happy coding! 💻🎉
 
 ---
 
-> _"Remember, with great power comes great responsibility."_ - Uncle Ben
+> _"Remember, with great power comes great responsibility."_ — Uncle Ben

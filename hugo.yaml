@@ -50,7 +50,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "/assets/favicon.ico"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -63,12 +63,12 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: Welcome to my blog
+    enabled: true # needs to be explicitly set
+    title: Hakan's Journey
     subtitle: "I write about my experiences and learnings."
-    imageUrl: "/images/mountains.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "images/manga-removebg.png"
+    imageWidth: 240
+    imageHeight: 240
     imageTitle: my image
     buttons:
       - name: Posts
@@ -94,9 +94,9 @@ params:
   #     SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   # editPost:
   #   URL: "https://github.com/<path_to_repo>/content"
